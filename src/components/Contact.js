@@ -8,7 +8,7 @@ const online = true;
 
 function Contact() {
   return (
-    <div className='Contact'>
+    <div className='contact'>
       <img src={avatarUrl} alt='avatar' className='avatar' />
       <div className='text'>
         <h4 className='name'>{fullName} </h4>
